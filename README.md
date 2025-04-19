@@ -15,4 +15,4 @@
 - [ ] تغییر رنگ تم  
 
 ## اگر کمک خواستی:  
-ایمیل بزن به: myemail@example.com  
+ایمیل بزن به: t.kowsar.shabani@gmail.com 
